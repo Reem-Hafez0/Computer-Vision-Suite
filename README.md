@@ -1,4 +1,4 @@
-# Computer Vision Suite 🧠📷
+# Computer Vision Suite 
 
 A collection of computer vision apps including object detection, emotion analysis, and video processing using Streamlit.
 
